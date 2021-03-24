@@ -1,0 +1,16 @@
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.csprojAssemblyReference.cache
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.AssemblyInfoInputs.cache
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.AssemblyInfo.cs
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.csproj.CoreCompileInputs.cache
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.exe
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.deps.json
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.runtimeconfig.json
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.runtimeconfig.dev.json
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.dll
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\ref\MatrixListe.dll
+C:\Users\bironneaun\initc#\MatrixListe\bin\Debug\net5.0\MatrixListe.pdb
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.dll
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\ref\MatrixListe.dll
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.pdb
+C:\Users\bironneaun\initc#\MatrixListe\obj\Debug\net5.0\MatrixListe.genruntimeconfig.cache
